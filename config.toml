@@ -28,7 +28,6 @@ languageCode = "en-gb"
 title = "Example site multi-language"
 dateFormat = "2 January, 2006"
 home = "Home"
-logo = "images/logo.png"
 menufixed = false
 
 footerDescription = "Digital Twins Sheffield brings together academics and industry focused on digitial twin technology in the North of England."

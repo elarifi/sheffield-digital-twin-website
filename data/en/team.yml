@@ -4,9 +4,9 @@ title   : Our Team.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Person 1
-    designation   : Job Role
+  - image         : images/team/amrc.png
+    name          : AMRC
+    designation   : Manufacturing
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -14,9 +14,9 @@ member  :
     webURL        : https://sheffield.ac.uk/
     
 
-  - image         : images/team/member-2.jpg
-    name          : Person 2
-    designation   : Job Role
+  - image         : images/team/drg.png
+    name          : DRG
+    designation   : Dynamics
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -24,9 +24,9 @@ member  :
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-3.jpg
-    name          : Person 3
-    designation   : Job Role
+  - image         : images/team/acse.png
+    name          : ACSE
+    designation   : Control Systems
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -34,12 +34,12 @@ member  :
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-4.jpg
-    name          : Person 4
-    designation   : Job Role
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+  # - image         : images/team/member-4.jpg
+  #   name          : Person 4
+  #   designation   : Job Role
+  #   description   : >
+  #     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  #   facebookURL   : https://www.facebook.com/
+  #   twitterURL    : https://twitter.com/
+  #   gplusURL      : https://plus.google.com/
+  #   dribbbleURL   : https://dribbble.com/
