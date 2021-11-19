@@ -803,14 +803,13 @@ a:focus, a:hover {
 
 .about-2 h2:before {
   position: absolute;
-  left: -15%;
+  left: 10%;
   top: 18px;
   content: '';
   display: inline-block;
-  width: 12%;
-  height: 3px;
+  width: 15%;
+  height: 4px;
   background-color: #ffa535;
-  background-image: linear-gradient(100deg, var(--primary-4), var(--tertiary-4));
   background-image: linear-gradient(100deg, var(--primary-4), var(--tertiary-4));
 }
 
