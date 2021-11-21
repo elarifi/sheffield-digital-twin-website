@@ -1,28 +1,28 @@
 enable  : true
-topTitle: HOW WE WORKS
-title   : Our Work Process
+topTitle: HOW WE WORK
+title   : Core Principles
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item    :
   - number  : 1
-    icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    icon    : tf-ion-ios-bolt-outline
+    title   : Innovation
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 2
     icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    title   : Timeliness
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 3
-    icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    icon    : tf-ion-ios-navigate-outline
+    title   : Leadership
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 4
     icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+    title   : Trust
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
