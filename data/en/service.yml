@@ -1,26 +1,26 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : Our Service.
+topTitle  : DIGITAL TWIN PROJECTS
+title     : Our Projects.
 subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item      :
-  - icon  : tf-ion-ios-copy-outline
-    title : Branding
+  - icon  : tf-ion-android-sync
+    title : Control
     list  :
       - name : Brand Strategy
       - name : Advertising / Campaigns
       - name : Product Design
       - name : Video / Photography
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Branding
+  - icon  : tf-ion-ios-analytics-outline
+    title : Dynamics
     list  :
       - name : Web Design
       - name : E- Commerce Site Design
       - name : App Development
       - name : Mobile UI Design
 
-  - icon  : tf-ion-ios-book-outline
-    title : IOS App Development
+  - icon  : tf-ion-ios-cog-outline
+    title : Manufacturing
     list  :
       - name : Game Development
       - name : Game Design
