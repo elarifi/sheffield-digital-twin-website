@@ -45,8 +45,8 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Digital Twin Sheffield Hub"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "Digital Twin Research Hub @Sheffield"
+description = "Welcome to the Digital Twin Research Hub, bringing together research teams at the Advanced Manufacturing Research Centre and University of Sheffield working on digital twin related research for high-value engineering applications."
 button  = true
 btnText = "Our Projects"
 btnURL  = "about"
