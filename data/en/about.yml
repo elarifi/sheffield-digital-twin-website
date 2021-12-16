@@ -4,10 +4,10 @@ item    :
     image : images/about/digital.jpg
     title : Thinking Digitally
     description : >
-      This is my first description.
+      We are creating digital twin operational platforms, and connecting them to a range of demonstration examples. The operational platforms connect users, via a web-based interface with the physical twin, and cloud-based services such as data storage and high-power computation.
 
   - positionRight : true
     image : images/about/physical.jpg
     title : Working Physically
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Physical twins need sensors and actuators connected to data acquisition hardware in order to interact with a digital twin. As a result, a digital twin implementation is reliant on this type of internet-of-things (IoT) hardware. We consider a digital twin to be made up of three layers: (1) IoT, (2) Operational Platform, and (3) Cloud services.
