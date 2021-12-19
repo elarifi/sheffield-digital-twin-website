@@ -17,7 +17,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-logo = "images/logo.png"
+logo = "images/logoDT3.png"
 
 # meta data
 author = "Themefisher"
