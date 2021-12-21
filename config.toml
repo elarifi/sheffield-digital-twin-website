@@ -58,7 +58,7 @@ bannerImage = "images/banner_wide.jpg"
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "Our Vision"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+description = "We believe that digital twin technoclogy will be a key part of the solutions for;  neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
