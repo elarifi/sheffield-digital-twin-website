@@ -58,7 +58,7 @@ bannerImage = "images/banner_wide.jpg"
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "Our Vision"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+description = "We believe that digital twin technology will be a key part of the solutions for; green energy (e.g. via advanced asset management of offshore wind farms); healthcare (e.g. via personalised medicine); smart cities (e.g. by smart management of energy consumption); more efficient manufacturing (e.g. by reducing costs and increasing time efficiency) to name just a few key applications. The Digital Twin Research@Sheffield brings together key research teams to deliver this vision. "
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
