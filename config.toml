@@ -20,8 +20,8 @@ DefaultContentLanguage = "en"
 logo = "images/logoDT3.png"
 
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Digital Twin Research @Sheffield Team"
+description = "Digital Twins Sheffield brings together academics and industry focused on digital twin technology in the North of England."
 
 weight = 2
 languageCode = "en-gb"
@@ -30,11 +30,11 @@ dateFormat = "2 January, 2006"
 home = "Home"
 menufixed = false
 
-footerDescription = "Digital Twins Sheffield brings together academics and industry focused on digitial twin technology in the North of England."
-footerServiceTitle = "Service"
-footerQuicklinkTitle = "Quicklinks"
-footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
+footerDescription = "Digital Twins Sheffield brings together academics and industry focused on digital twin technology in the North of England."
+#footerServiceTitle = "Service"
+#footerQuicklinkTitle = "Quicklinks"
+#footerAboutTitle = "About"
+#footerSubscribeTitle = "Subscribe"
 
 
 # cookies
@@ -96,57 +96,57 @@ btnText = "Contact Us"
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
-[menu]
+#[menu]
 # Navbar Menus
-[[menu.nav]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
-[[menu.nav]]
-name    = "contact"
-url     = "contact"
-weight  = 6
+#[[menu.nav]]
+#name    = "about"
+#url     = "about"
+#weight  = 2
+#[[menu.nav]]
+#name    = "service"
+#url     = "service"
+#weight  = 3
+#[[menu.nav]]
+#name    = "portfolio"
+#url     = "portfolio"
+#weight  = 4
+#[[menu.nav]]
+#name    = "blog"
+#url     = "blog"
+#weight  = 5
+#[[menu.nav]]
+#name    = "contact"
+#url     = "contact"
+#weight  = 6
 
 # Footer Service Menu
-[[menu.service]]
-name    = "graphicdesign"
-url     = "service"
-weight  = 1
-[[menu.service]]
-name    = "webdesign"
-url     = "service"
-weight  = 2
-[[menu.service]]
-name    = "webdevelopment"
-url     = "service"
-weight  = 3
+#[[menu.service]]
+#name    = "graphicdesign"
+#url     = "service"
+#weight  = 1
+#[[menu.service]]
+#name    = "webdesign"
+#url     = "service"
+#weight  = 2
+#[[menu.service]]
+#name    = "webdevelopment"
+#url     = "service"
+#weight  = 3
 
 # Footer Quick links Menu
-[[menu.quicklink]]
-name    = "partners"
-url     = "about"
-weight  = 1
-[[menu.quicklink]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4
+#[[menu.quicklink]]
+#name    = "partners"
+#url     = "about"
+#weight  = 1
+#[[menu.quicklink]]
+#name    = "about"
+#url     = "about"
+#weight  = 2
+#[[menu.quicklink]]
+#name    = "faqs"
+#url     = "about"
+#weight  = 3
+#[[menu.quicklink]]
+#name    = "badges"
+#url     = "about"
+#weight  = 4
