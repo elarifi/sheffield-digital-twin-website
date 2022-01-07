@@ -59,6 +59,8 @@ bannerImage = "images/banner_wide.jpg"
 enable  = true
 title   = "Our Vision"
 description = "We believe that digital twin technology will be a key part of the solutions for; green energy (e.g. via advanced asset management of offshore wind farms); healthcare (e.g. via personalised medicine); smart cities (e.g. by smart management of energy consumption); more efficient manufacturing (e.g. by reducing costs and increasing time efficiency) to name just a few key applications. The Digital Twin Research@Sheffield brings together key research teams to deliver this vision. "
+title  = "Background"
+description = "Digital twins (DTs) are radically reshaping most aspects of modern technology. A key objective of a DT is that it can faithfully capture time-evolutionary behaviour of the physical twin. Significant value and advantage can then be obtained by monitoring data and anticipating changes that happen over time, e.g. for asset management, scheduling of operation and maintenance, extending operational life and increasing security and resilience, to mention just a few tasks.  At present, there is only a very rudimentary understanding of how the time-evolution of a DT will work. Understanding more completely the dynamics and control of the twin across a range of time scales is one of the central research questions of the DTHIVE project. More specifically, it will focus on high-value engineering applications from aerospace to civil infrastructure. "
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -72,8 +74,8 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "GET IN TOUCH"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "Sir Frederick Mappin Building, Mappin Street"
+subtitle= "For further information please complete the form below"
+address = "Sir Frederick Mappin Building, Mappin Street, Sheffield"
 phone   = "xxxxx"
 fax     = "xxxx"
 facebook= "https://www.facebook.com/"
