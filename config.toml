@@ -96,28 +96,28 @@ btnText = "Contact Us"
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
-#[menu]
+[menu]
 # Navbar Menus
-#[[menu.nav]]
-#name    = "about"
-#url     = "about"
-#weight  = 2
-#[[menu.nav]]
-#name    = "service"
-#url     = "service"
-#weight  = 3
-#[[menu.nav]]
-#name    = "portfolio"
-#url     = "portfolio"
-#weight  = 4
-#[[menu.nav]]
-#name    = "blog"
-#url     = "blog"
-#weight  = 5
-#[[menu.nav]]
-#name    = "contact"
-#url     = "contact"
-#weight  = 6
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 3
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "blog"
+url     = "blog"
+weight  = 5
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
 
 # Footer Service Menu
 #[[menu.service]]
