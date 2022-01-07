@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://digitaltwin.shef.ac.uk/"
 languageCode = "en-us"
 title = "Digital Twin Research @Sheffield"
 theme = "navigator-hugo"
