@@ -59,6 +59,8 @@ bannerImage = "images/banner_wide.jpg"
 enable  = true
 title   = "Our Vision"
 description = "We believe that digital twin technology will be a key part of the solutions for; green energy (e.g. via advanced asset management of offshore wind farms); healthcare (e.g. via personalised medicine); smart cities (e.g. by smart management of energy consumption); more efficient manufacturing (e.g. by reducing costs and increasing time efficiency) to name just a few key applications. The Digital Twin Research@Sheffield brings together key research teams to deliver this vision. "
+title   = "Background"
+description = "Digital twins (DTs) are radically reshaping most aspects of modern technology..."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -72,8 +74,8 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "GET IN TOUCH"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "Sir Frederick Mappin Building, Mappin Street"
+subtitle= "For more information please complete the form below."
+address = "Sir Frederick Mappin Building, Mappin Street, Sheffield"
 phone   = "xxxxx"
 fax     = "xxxx"
 facebook= "https://www.facebook.com/"
