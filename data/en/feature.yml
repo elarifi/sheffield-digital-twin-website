@@ -3,14 +3,14 @@ item  :
   - icon  : tf-ion-ios-copy-outline
     title : Our Thing 1
     description : >
-      Hello Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Hello Lorem ipsum .
 
   - icon  : tf-ion-ios-alarm-outline
     title : Our Thing 2
     description : >
-      Hello Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Hello mauris dapibus consectetur.
 
   - icon  : tf-ion-ios-book-outline
     title : Our Thing 3
     description : >
-      Hello Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Hello again and again.
